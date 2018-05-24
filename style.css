@@ -1,0 +1,27 @@
+.container-fluid {
+    width: 100%;
+}
+body {
+    background-image: url(nails1.jpg);
+    background-repeat: no-repeat;
+    background-size: fit;
+    background-origin: padding-box;
+    background-color: white;
+}
+.col-4 {
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+#logo {
+    font-family: 'Poiret One', cursive;
+    font-size: 31px;
+    font-weight: bold;
+    color: #f7f4f4;
+    text-transform: uppercase;
+}
+#address {
+    font-size: 15px;
+    font-weight: lighter;
+    color: #f7f4f4;
+}
