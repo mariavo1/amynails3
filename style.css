@@ -10,7 +10,6 @@ body {
 }
 .col-4 {
     position: relative;
-    top: 20px;
     text-align: center;
 }
 #logo {
@@ -21,6 +20,11 @@ body {
     text-transform: uppercase;
 }
 #address {
+    font-size: 15px;
+    font-weight: lighter;
+    color: #f7f4f4;
+}
+#phone {
     font-size: 15px;
     font-weight: lighter;
     color: #f7f4f4;
