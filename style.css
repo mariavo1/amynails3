@@ -10,7 +10,7 @@ body {
 }
 .col-4 {
     position: relative;
-    top: 20px;
+    top: 22px;
     text-align: center;
 }
 #logo {
@@ -43,11 +43,19 @@ body {
     color: #f7f4f4; 
     text-decoration: none;
     margin: auto;
-    word-spacing: 1px;
-    letter-spacing: 1px;
+
     text-transform: uppercase;
 }
 a:hover {
     color: #7a2d2d;
     text-decoration: none;
 }
+
+
+
+
+
+
+
+git remote add origin https://github.com/mariavo1/amynails3.git
+git push -u origin master
