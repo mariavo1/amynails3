@@ -30,3 +30,19 @@ body {
     font-weight: lighter;
     color: #f7f4f4;
 }
+.collapse navbar-collapse { 
+    background-color: #2b2929;
+    opacity: .8;
+    padding: 15px;
+    position: relative;
+    top: 60px;
+}
+.nav-item nav-link active {
+    font-family: Arial;
+    font-size: 15px;
+    color: #f7f4f4; 
+    text-decoration: none;
+    margin: auto;
+    word-spacing: 600px;
+    letter-spacing: 1px;
+}
