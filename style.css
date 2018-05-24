@@ -30,19 +30,24 @@ body {
     font-weight: lighter;
     color: #f7f4f4;
 }
-.collapse navbar-collapse { 
+.navbar { 
     background-color: #2b2929;
     opacity: .8;
     padding: 15px;
     position: relative;
-    top: 60px;
+    top: 32px;
 }
-.nav-item nav-link active {
+.nav-item {
     font-family: Arial;
     font-size: 15px;
     color: #f7f4f4; 
     text-decoration: none;
     margin: auto;
-    word-spacing: 600px;
+    word-spacing: 1px;
     letter-spacing: 1px;
+    text-transform: uppercase;
+}
+a:hover {
+    color: #7a2d2d;
+    text-decoration: none;
 }
